@@ -1,1 +1,2 @@
 Commit on 2025-05-01 #1: feat(board): implement task card drag-and-drop
+Commit on 2025-05-01 #2: chore: update dependencies and project structure
