@@ -1,3 +1,4 @@
 Commit on 2025-05-01 #1: feat(board): implement task card drag-and-drop
 Commit on 2025-05-01 #2: chore: update dependencies and project structure
 Commit on 2025-05-02 #1: fix(api): resolve sync issue when updating task titles
+Commit on 2025-05-02 #2: fix(auth): resolve login redirect problem
