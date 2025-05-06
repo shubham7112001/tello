@@ -9,3 +9,4 @@ Commit on 2025-05-05 #1: docs: add API usage section for board and task endpoint
 Commit on 2025-05-05 #2: feat(auth): integrate user login and session handling
 Commit on 2025-05-05 #3: feat(ui): add adaptive theme and responsive grid layout
 Commit on 2025-05-06 #1: feat(board): enable board sharing with team members
+Commit on 2025-05-06 #2: docs: update contribution guidelines and README
