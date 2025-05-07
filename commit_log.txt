@@ -13,3 +13,4 @@ Commit on 2025-05-06 #2: docs: update contribution guidelines and README
 Commit on 2025-05-06 #3: feat(ui): add adaptive theme and responsive grid layout
 Commit on 2025-05-07 #1: docs: add API usage section for board and task endpoints
 Commit on 2025-05-07 #2: docs: update contribution guidelines and README
+Commit on 2025-05-07 #3: fix(ui): correct overflow issue in column view
