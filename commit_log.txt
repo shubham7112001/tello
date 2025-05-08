@@ -15,3 +15,4 @@ Commit on 2025-05-07 #1: docs: add API usage section for board and task endpoint
 Commit on 2025-05-07 #2: docs: update contribution guidelines and README
 Commit on 2025-05-07 #3: fix(ui): correct overflow issue in column view
 Commit on 2025-05-08 #1: feat(notification): implement real-time task updates
+Commit on 2025-05-08 #2: chore: cleanup unused imports and assets
