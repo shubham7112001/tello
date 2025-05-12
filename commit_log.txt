@@ -24,3 +24,4 @@ Commit on 2025-05-10 #2: feat(board): implement task card drag-and-drop
 Commit on 2025-05-11 #1: docs: update contribution guidelines and README
 Commit on 2025-05-12 #1: fix(ui): correct overflow issue in column view
 Commit on 2025-05-12 #2: feat(ui): add adaptive theme and responsive grid layout
+Commit on 2025-05-12 #3: docs: add API usage section for board and task endpoints
