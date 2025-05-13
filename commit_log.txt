@@ -26,3 +26,4 @@ Commit on 2025-05-12 #1: fix(ui): correct overflow issue in column view
 Commit on 2025-05-12 #2: feat(ui): add adaptive theme and responsive grid layout
 Commit on 2025-05-12 #3: docs: add API usage section for board and task endpoints
 Commit on 2025-05-13 #1: feat(ui): add adaptive theme and responsive grid layout
+Commit on 2025-05-13 #2: fix(board): fix missing board refresh after drag event
