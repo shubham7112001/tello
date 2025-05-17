@@ -35,3 +35,4 @@ Commit on 2025-05-15 #3: fix(api): resolve sync issue when updating task titles
 Commit on 2025-05-16 #1: docs: update contribution guidelines and README
 Commit on 2025-05-16 #2: feat(ui): add adaptive theme and responsive grid layout
 Commit on 2025-05-17 #1: feat(board): enable board sharing with team members
+Commit on 2025-05-17 #2: docs: update contribution guidelines and README
