@@ -54,3 +54,4 @@ Commit on 2025-05-24 #1: feat(task): add due date and label support
 Commit on 2025-05-25 #1: refactor(task): optimize task data structure
 Commit on 2025-05-26 #1: refactor(task): optimize task data structure
 Commit on 2025-05-26 #2: docs: add API usage section for board and task endpoints
+Commit on 2025-05-26 #3: chore: cleanup unused imports and assets
