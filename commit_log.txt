@@ -59,3 +59,4 @@ Commit on 2025-05-27 #1: chore: update dependencies and project structure
 Commit on 2025-05-27 #2: fix(auth): resolve login redirect problem
 Commit on 2025-05-28 #1: feat(auth): integrate user login and session handling
 Commit on 2025-05-28 #2: feat(ui): add adaptive theme and responsive grid layout
+Commit on 2025-05-29 #1: fix(board): fix missing board refresh after drag event
