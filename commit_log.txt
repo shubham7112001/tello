@@ -74,3 +74,4 @@ Commit on 2025-06-03 #3: fix(api): resolve sync issue when updating task titles
 Commit on 2025-06-04 #1: docs: add API usage section for board and task endpoints
 Commit on 2025-06-04 #2: feat(notification): implement real-time task updates
 Commit on 2025-06-04 #3: fix(task): correct status update bug on task move
+Commit on 2025-06-05 #1: feat(task): add due date and label support
