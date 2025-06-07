@@ -78,3 +78,4 @@ Commit on 2025-06-05 #1: feat(task): add due date and label support
 Commit on 2025-06-05 #2: fix(ui): correct overflow issue in column view
 Commit on 2025-06-06 #1: fix(api): resolve sync issue when updating task titles
 Commit on 2025-06-06 #2: refactor(task): optimize task data structure
+Commit on 2025-06-07 #1: refactor(task): optimize task data structure
