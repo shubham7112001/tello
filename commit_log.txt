@@ -83,3 +83,4 @@ Commit on 2025-06-07 #2: feat(board): implement task card drag-and-drop
 Commit on 2025-06-08 #1: refactor(ui): simplify state management for board screen
 Commit on 2025-06-09 #1: feat(task): add due date and label support
 Commit on 2025-06-09 #2: feat(task): add due date and label support
+Commit on 2025-06-10 #1: chore: cleanup unused imports and assets
