@@ -84,3 +84,4 @@ Commit on 2025-06-08 #1: refactor(ui): simplify state management for board scree
 Commit on 2025-06-09 #1: feat(task): add due date and label support
 Commit on 2025-06-09 #2: feat(task): add due date and label support
 Commit on 2025-06-10 #1: chore: cleanup unused imports and assets
+Commit on 2025-06-10 #2: chore: update dependencies and project structure
