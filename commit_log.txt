@@ -92,3 +92,4 @@ Commit on 2025-06-11 #3: refactor(ui): simplify state management for board scree
 Commit on 2025-06-12 #1: refactor(core): reorganize API client and utils
 Commit on 2025-06-12 #2: feat(board): implement task card drag-and-drop
 Commit on 2025-06-12 #3: fix(board): fix missing board refresh after drag event
+Commit on 2025-06-13 #1: chore: cleanup unused imports and assets
