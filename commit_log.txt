@@ -94,3 +94,4 @@ Commit on 2025-06-12 #2: feat(board): implement task card drag-and-drop
 Commit on 2025-06-12 #3: fix(board): fix missing board refresh after drag event
 Commit on 2025-06-13 #1: chore: cleanup unused imports and assets
 Commit on 2025-06-13 #2: feat(board): enable board sharing with team members
+Commit on 2025-06-14 #1: refactor(ui): simplify state management for board screen
