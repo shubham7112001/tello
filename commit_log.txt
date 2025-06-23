@@ -109,3 +109,4 @@ Commit on 2025-06-20 #2: fix(api): resolve sync issue when updating task titles
 Commit on 2025-06-20 #3: docs: add API usage section for board and task endpoints
 Commit on 2025-06-21 #1: refactor(task): optimize task data structure
 Commit on 2025-06-22 #1: feat(notification): implement real-time task updates
+Commit on 2025-06-23 #1: feat(board): enable board sharing with team members
