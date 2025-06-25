@@ -116,3 +116,4 @@ Commit on 2025-06-24 #1: fix(auth): resolve login redirect problem
 Commit on 2025-06-24 #2: feat(auth): integrate user login and session handling
 Commit on 2025-06-25 #1: fix(api): resolve sync issue when updating task titles
 Commit on 2025-06-25 #2: fix(board): fix missing board refresh after drag event
+Commit on 2025-06-25 #3: feat(task): add checklist and attachments support
