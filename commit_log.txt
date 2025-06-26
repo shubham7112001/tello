@@ -119,3 +119,4 @@ Commit on 2025-06-25 #2: fix(board): fix missing board refresh after drag event
 Commit on 2025-06-25 #3: feat(task): add checklist and attachments support
 Commit on 2025-06-26 #1: feat(board): implement task card drag-and-drop
 Commit on 2025-06-26 #2: feat(auth): integrate user login and session handling
+Commit on 2025-06-26 #3: fix(api): resolve sync issue when updating task titles
