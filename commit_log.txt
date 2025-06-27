@@ -121,3 +121,4 @@ Commit on 2025-06-26 #1: feat(board): implement task card drag-and-drop
 Commit on 2025-06-26 #2: feat(auth): integrate user login and session handling
 Commit on 2025-06-26 #3: fix(api): resolve sync issue when updating task titles
 Commit on 2025-06-27 #1: feat(board): enable board sharing with team members
+Commit on 2025-06-27 #2: feat(auth): integrate user login and session handling
