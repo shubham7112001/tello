@@ -123,3 +123,4 @@ Commit on 2025-06-26 #3: fix(api): resolve sync issue when updating task titles
 Commit on 2025-06-27 #1: feat(board): enable board sharing with team members
 Commit on 2025-06-27 #2: feat(auth): integrate user login and session handling
 Commit on 2025-06-28 #1: docs: add API usage section for board and task endpoints
+Commit on 2025-06-29 #1: fix(task): correct status update bug on task move
