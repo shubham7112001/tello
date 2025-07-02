@@ -130,3 +130,4 @@ Commit on 2025-06-30 #2: fix(ui): correct overflow issue in column view
 Commit on 2025-07-01 #1: feat(board): implement task card drag-and-drop
 Commit on 2025-07-01 #2: fix(board): fix missing board refresh after drag event
 Commit on 2025-07-01 #3: feat(board): implement task card drag-and-drop
+Commit on 2025-07-02 #1: chore: update dependencies and project structure
