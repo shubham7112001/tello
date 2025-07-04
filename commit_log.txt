@@ -135,3 +135,4 @@ Commit on 2025-07-02 #2: docs: add API usage section for board and task endpoint
 Commit on 2025-07-03 #1: feat(board): implement task card drag-and-drop
 Commit on 2025-07-03 #2: feat(auth): integrate user login and session handling
 Commit on 2025-07-03 #3: docs: add API usage section for board and task endpoints
+Commit on 2025-07-04 #1: feat(notification): implement real-time task updates
