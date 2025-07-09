@@ -147,3 +147,4 @@ Commit on 2025-07-08 #1: chore: update dependencies and project structure
 Commit on 2025-07-08 #2: feat(notification): implement real-time task updates
 Commit on 2025-07-08 #3: fix(auth): resolve login redirect problem
 Commit on 2025-07-09 #1: refactor(task): optimize task data structure
+Commit on 2025-07-09 #2: refactor(core): reorganize API client and utils
