@@ -149,3 +149,4 @@ Commit on 2025-07-08 #3: fix(auth): resolve login redirect problem
 Commit on 2025-07-09 #1: refactor(task): optimize task data structure
 Commit on 2025-07-09 #2: refactor(core): reorganize API client and utils
 Commit on 2025-07-10 #1: refactor(ui): simplify state management for board screen
+Commit on 2025-07-10 #2: chore: cleanup unused imports and assets
