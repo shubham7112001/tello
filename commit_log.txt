@@ -153,3 +153,4 @@ Commit on 2025-07-10 #2: chore: cleanup unused imports and assets
 Commit on 2025-07-10 #3: docs: add API usage section for board and task endpoints
 Commit on 2025-07-11 #1: refactor(task): optimize task data structure
 Commit on 2025-07-11 #2: feat(auth): integrate user login and session handling
+Commit on 2025-07-12 #1: fix(ui): correct overflow issue in column view
