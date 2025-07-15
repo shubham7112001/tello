@@ -159,3 +159,4 @@ Commit on 2025-07-13 #2: feat(task): add due date and label support
 Commit on 2025-07-14 #1: fix(auth): resolve login redirect problem
 Commit on 2025-07-14 #2: fix(task): correct status update bug on task move
 Commit on 2025-07-15 #1: fix(task): correct status update bug on task move
+Commit on 2025-07-15 #2: chore: cleanup unused imports and assets
