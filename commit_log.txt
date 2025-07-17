@@ -163,3 +163,4 @@ Commit on 2025-07-15 #2: chore: cleanup unused imports and assets
 Commit on 2025-07-16 #1: feat(board): implement task card drag-and-drop
 Commit on 2025-07-16 #2: feat(task): add due date and label support
 Commit on 2025-07-16 #3: refactor(core): reorganize API client and utils
+Commit on 2025-07-17 #1: chore: cleanup unused imports and assets
