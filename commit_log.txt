@@ -168,3 +168,4 @@ Commit on 2025-07-17 #2: chore: update dependencies and project structure
 Commit on 2025-07-17 #3: fix(ui): correct overflow issue in column view
 Commit on 2025-07-18 #1: feat(task): add due date and label support
 Commit on 2025-07-18 #2: feat(ui): add adaptive theme and responsive grid layout
+Commit on 2025-07-18 #3: chore: cleanup unused imports and assets
