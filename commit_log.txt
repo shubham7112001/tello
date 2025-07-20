@@ -171,3 +171,4 @@ Commit on 2025-07-18 #2: feat(ui): add adaptive theme and responsive grid layout
 Commit on 2025-07-18 #3: chore: cleanup unused imports and assets
 Commit on 2025-07-19 #1: feat(task): add checklist and attachments support
 Commit on 2025-07-19 #2: feat(task): add checklist and attachments support
+Commit on 2025-07-20 #1: fix(board): fix missing board refresh after drag event
