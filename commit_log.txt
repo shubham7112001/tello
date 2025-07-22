@@ -176,3 +176,4 @@ Commit on 2025-07-20 #2: chore: improve build configuration for release
 Commit on 2025-07-21 #1: feat(task): add due date and label support
 Commit on 2025-07-21 #2: chore: improve build configuration for release
 Commit on 2025-07-21 #3: refactor(ui): simplify state management for board screen
+Commit on 2025-07-22 #1: chore: update dependencies and project structure
