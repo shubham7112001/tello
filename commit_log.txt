@@ -181,3 +181,4 @@ Commit on 2025-07-22 #2: fix(ui): correct overflow issue in column view
 Commit on 2025-07-22 #3: feat(ui): add adaptive theme and responsive grid layout
 Commit on 2025-07-23 #1: refactor(task): optimize task data structure
 Commit on 2025-07-23 #2: refactor(core): reorganize API client and utils
+Commit on 2025-07-24 #1: refactor(core): reorganize API client and utils
