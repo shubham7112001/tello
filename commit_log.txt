@@ -184,3 +184,4 @@ Commit on 2025-07-23 #2: refactor(core): reorganize API client and utils
 Commit on 2025-07-24 #1: refactor(core): reorganize API client and utils
 Commit on 2025-07-24 #2: docs: update contribution guidelines and README
 Commit on 2025-07-25 #1: docs: update contribution guidelines and README
+Commit on 2025-07-25 #2: feat(notification): implement real-time task updates
