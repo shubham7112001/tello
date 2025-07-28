@@ -189,3 +189,4 @@ Commit on 2025-07-26 #1: feat(board): enable board sharing with team members
 Commit on 2025-07-26 #2: fix(board): fix missing board refresh after drag event
 Commit on 2025-07-27 #1: refactor(ui): simplify state management for board screen
 Commit on 2025-07-28 #1: feat(ui): add adaptive theme and responsive grid layout
+Commit on 2025-07-28 #2: fix(board): fix missing board refresh after drag event
