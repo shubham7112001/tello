@@ -191,3 +191,4 @@ Commit on 2025-07-27 #1: refactor(ui): simplify state management for board scree
 Commit on 2025-07-28 #1: feat(ui): add adaptive theme and responsive grid layout
 Commit on 2025-07-28 #2: fix(board): fix missing board refresh after drag event
 Commit on 2025-07-29 #1: feat(auth): integrate user login and session handling
+Commit on 2025-07-29 #2: chore: cleanup unused imports and assets
