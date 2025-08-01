@@ -200,3 +200,4 @@ Commit on 2025-07-31 #2: chore: cleanup unused imports and assets
 Commit on 2025-07-31 #3: refactor(core): reorganize API client and utils
 Commit on 2025-08-01 #1: fix(task): correct status update bug on task move
 Commit on 2025-08-01 #2: feat(ui): add adaptive theme and responsive grid layout
+Commit on 2025-08-01 #3: feat(task): add due date and label support
