@@ -207,3 +207,4 @@ Commit on 2025-08-04 #1: fix(auth): resolve login redirect problem
 Commit on 2025-08-04 #2: refactor(core): reorganize API client and utils
 Commit on 2025-08-04 #3: fix(api): resolve sync issue when updating task titles
 Commit on 2025-08-05 #1: feat(board): enable board sharing with team members
+Commit on 2025-08-05 #2: fix(task): correct status update bug on task move
