@@ -214,3 +214,4 @@ Commit on 2025-08-06 #2: refactor(ui): simplify state management for board scree
 Commit on 2025-08-07 #1: feat(ui): add adaptive theme and responsive grid layout
 Commit on 2025-08-07 #2: feat(auth): integrate user login and session handling
 Commit on 2025-08-08 #1: feat(board): implement task card drag-and-drop
+Commit on 2025-08-08 #2: docs: update contribution guidelines and README
