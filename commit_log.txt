@@ -224,3 +224,4 @@ Commit on 2025-08-11 #2: feat(task): add checklist and attachments support
 Commit on 2025-08-11 #3: feat(task): add checklist and attachments support
 Commit on 2025-08-12 #1: fix(board): fix missing board refresh after drag event
 Commit on 2025-08-12 #2: refactor(task): optimize task data structure
+Commit on 2025-08-13 #1: chore: update dependencies and project structure
