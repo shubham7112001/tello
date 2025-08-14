@@ -227,3 +227,4 @@ Commit on 2025-08-12 #2: refactor(task): optimize task data structure
 Commit on 2025-08-13 #1: chore: update dependencies and project structure
 Commit on 2025-08-13 #2: fix(task): correct status update bug on task move
 Commit on 2025-08-14 #1: chore: cleanup unused imports and assets
+Commit on 2025-08-14 #2: feat(task): add checklist and attachments support
