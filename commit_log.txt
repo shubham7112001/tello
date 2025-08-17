@@ -231,3 +231,4 @@ Commit on 2025-08-14 #2: feat(task): add checklist and attachments support
 Commit on 2025-08-15 #1: fix(task): correct status update bug on task move
 Commit on 2025-08-15 #2: feat(board): enable board sharing with team members
 Commit on 2025-08-16 #1: chore: update dependencies and project structure
+Commit on 2025-08-17 #1: refactor(task): optimize task data structure
