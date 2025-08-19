@@ -237,3 +237,4 @@ Commit on 2025-08-18 #1: fix(task): correct status update bug on task move
 Commit on 2025-08-18 #2: docs: add API usage section for board and task endpoints
 Commit on 2025-08-18 #3: docs: add API usage section for board and task endpoints
 Commit on 2025-08-19 #1: feat(notification): implement real-time task updates
+Commit on 2025-08-19 #2: fix(auth): resolve login redirect problem
