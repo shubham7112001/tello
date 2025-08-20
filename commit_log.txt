@@ -239,3 +239,4 @@ Commit on 2025-08-18 #3: docs: add API usage section for board and task endpoint
 Commit on 2025-08-19 #1: feat(notification): implement real-time task updates
 Commit on 2025-08-19 #2: fix(auth): resolve login redirect problem
 Commit on 2025-08-19 #3: chore: update dependencies and project structure
+Commit on 2025-08-20 #1: feat(auth): integrate user login and session handling
