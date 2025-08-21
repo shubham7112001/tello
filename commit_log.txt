@@ -242,3 +242,4 @@ Commit on 2025-08-19 #3: chore: update dependencies and project structure
 Commit on 2025-08-20 #1: feat(auth): integrate user login and session handling
 Commit on 2025-08-20 #2: feat(task): add due date and label support
 Commit on 2025-08-21 #1: docs: add API usage section for board and task endpoints
+Commit on 2025-08-21 #2: refactor(task): optimize task data structure
