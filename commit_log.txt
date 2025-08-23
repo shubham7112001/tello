@@ -245,3 +245,4 @@ Commit on 2025-08-21 #1: docs: add API usage section for board and task endpoint
 Commit on 2025-08-21 #2: refactor(task): optimize task data structure
 Commit on 2025-08-22 #1: feat(ui): add adaptive theme and responsive grid layout
 Commit on 2025-08-22 #2: fix(ui): correct overflow issue in column view
+Commit on 2025-08-23 #1: refactor(ui): simplify state management for board screen
