@@ -248,3 +248,4 @@ Commit on 2025-08-22 #2: fix(ui): correct overflow issue in column view
 Commit on 2025-08-23 #1: refactor(ui): simplify state management for board screen
 Commit on 2025-08-24 #1: fix(api): resolve sync issue when updating task titles
 Commit on 2025-08-24 #2: docs: update contribution guidelines and README
+Commit on 2025-08-25 #1: fix(board): fix missing board refresh after drag event
