@@ -250,3 +250,4 @@ Commit on 2025-08-24 #1: fix(api): resolve sync issue when updating task titles
 Commit on 2025-08-24 #2: docs: update contribution guidelines and README
 Commit on 2025-08-25 #1: fix(board): fix missing board refresh after drag event
 Commit on 2025-08-25 #2: feat(notification): implement real-time task updates
+Commit on 2025-08-25 #3: fix(auth): resolve login redirect problem
