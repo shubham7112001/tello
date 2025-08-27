@@ -255,3 +255,4 @@ Commit on 2025-08-26 #1: feat(notification): implement real-time task updates
 Commit on 2025-08-26 #2: chore: update dependencies and project structure
 Commit on 2025-08-26 #3: chore: improve build configuration for release
 Commit on 2025-08-27 #1: chore: update dependencies and project structure
+Commit on 2025-08-27 #2: docs: update contribution guidelines and README
