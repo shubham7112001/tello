@@ -260,3 +260,4 @@ Commit on 2025-08-27 #3: feat(ui): add adaptive theme and responsive grid layout
 Commit on 2025-08-28 #1: fix(board): fix missing board refresh after drag event
 Commit on 2025-08-28 #2: docs: add API usage section for board and task endpoints
 Commit on 2025-08-28 #3: refactor(task): optimize task data structure
+Commit on 2025-08-29 #1: chore: cleanup unused imports and assets
