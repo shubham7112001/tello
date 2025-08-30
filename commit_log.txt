@@ -262,3 +262,4 @@ Commit on 2025-08-28 #2: docs: add API usage section for board and task endpoint
 Commit on 2025-08-28 #3: refactor(task): optimize task data structure
 Commit on 2025-08-29 #1: chore: cleanup unused imports and assets
 Commit on 2025-08-29 #2: docs: update contribution guidelines and README
+Commit on 2025-08-30 #1: docs: add API usage section for board and task endpoints
