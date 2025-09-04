@@ -273,3 +273,4 @@ Commit on 2025-09-02 #2: feat(ui): add adaptive theme and responsive grid layout
 Commit on 2025-09-03 #1: docs: update contribution guidelines and README
 Commit on 2025-09-03 #2: fix(auth): resolve login redirect problem
 Commit on 2025-09-04 #1: docs: update contribution guidelines and README
+Commit on 2025-09-04 #2: feat(task): add checklist and attachments support
