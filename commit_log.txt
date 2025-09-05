@@ -275,3 +275,4 @@ Commit on 2025-09-03 #2: fix(auth): resolve login redirect problem
 Commit on 2025-09-04 #1: docs: update contribution guidelines and README
 Commit on 2025-09-04 #2: feat(task): add checklist and attachments support
 Commit on 2025-09-04 #3: refactor(task): optimize task data structure
+Commit on 2025-09-05 #1: refactor(core): reorganize API client and utils
