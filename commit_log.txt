@@ -277,3 +277,4 @@ Commit on 2025-09-04 #2: feat(task): add checklist and attachments support
 Commit on 2025-09-04 #3: refactor(task): optimize task data structure
 Commit on 2025-09-05 #1: refactor(core): reorganize API client and utils
 Commit on 2025-09-05 #2: refactor(ui): simplify state management for board screen
+Commit on 2025-09-05 #3: fix(auth): resolve login redirect problem
