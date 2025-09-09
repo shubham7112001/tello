@@ -285,3 +285,4 @@ Commit on 2025-09-07 #2: refactor(core): reorganize API client and utils
 Commit on 2025-09-08 #1: chore: update dependencies and project structure
 Commit on 2025-09-08 #2: fix(ui): correct overflow issue in column view
 Commit on 2025-09-09 #1: fix(ui): correct overflow issue in column view
+Commit on 2025-09-09 #2: feat(auth): integrate user login and session handling
