@@ -288,3 +288,4 @@ Commit on 2025-09-09 #1: fix(ui): correct overflow issue in column view
 Commit on 2025-09-09 #2: feat(auth): integrate user login and session handling
 Commit on 2025-09-09 #3: feat(board): enable board sharing with team members
 Commit on 2025-09-10 #1: fix(api): resolve sync issue when updating task titles
+Commit on 2025-09-10 #2: feat(task): add checklist and attachments support
