@@ -291,3 +291,4 @@ Commit on 2025-09-10 #1: fix(api): resolve sync issue when updating task titles
 Commit on 2025-09-10 #2: feat(task): add checklist and attachments support
 Commit on 2025-09-10 #3: refactor(core): reorganize API client and utils
 Commit on 2025-09-11 #1: fix(ui): correct overflow issue in column view
+Commit on 2025-09-11 #2: chore: improve build configuration for release
