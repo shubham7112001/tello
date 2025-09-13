@@ -296,3 +296,4 @@ Commit on 2025-09-11 #3: refactor(task): optimize task data structure
 Commit on 2025-09-12 #1: refactor(core): reorganize API client and utils
 Commit on 2025-09-12 #2: refactor(core): reorganize API client and utils
 Commit on 2025-09-13 #1: feat(board): implement task card drag-and-drop
+Commit on 2025-09-13 #2: feat(task): add due date and label support
