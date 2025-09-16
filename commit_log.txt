@@ -302,3 +302,4 @@ Commit on 2025-09-14 #2: feat(board): implement task card drag-and-drop
 Commit on 2025-09-15 #1: refactor(ui): simplify state management for board screen
 Commit on 2025-09-15 #2: feat(board): enable board sharing with team members
 Commit on 2025-09-15 #3: fix(board): fix missing board refresh after drag event
+Commit on 2025-09-16 #1: fix(task): correct status update bug on task move
