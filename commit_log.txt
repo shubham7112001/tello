@@ -309,3 +309,4 @@ Commit on 2025-09-17 #2: fix(task): correct status update bug on task move
 Commit on 2025-09-17 #3: fix(board): fix missing board refresh after drag event
 Commit on 2025-09-18 #1: feat(task): add due date and label support
 Commit on 2025-09-18 #2: fix(task): correct status update bug on task move
+Commit on 2025-09-19 #1: fix(ui): correct overflow issue in column view
