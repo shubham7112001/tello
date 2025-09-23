@@ -317,3 +317,4 @@ Commit on 2025-09-21 #1: fix(ui): correct overflow issue in column view
 Commit on 2025-09-22 #1: refactor(ui): simplify state management for board screen
 Commit on 2025-09-22 #2: feat(board): enable board sharing with team members
 Commit on 2025-09-23 #1: refactor(core): reorganize API client and utils
+Commit on 2025-09-23 #2: fix(auth): resolve login redirect problem
