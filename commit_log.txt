@@ -334,3 +334,4 @@ Commit on 2025-09-29 #1: docs: add API usage section for board and task endpoint
 Commit on 2025-09-29 #2: feat(auth): integrate user login and session handling
 Commit on 2025-09-30 #1: chore: improve build configuration for release
 Commit on 2025-09-30 #2: feat(board): implement task card drag-and-drop
+Commit on 2025-09-30 #3: feat(auth): integrate user login and session handling
