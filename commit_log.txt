@@ -341,3 +341,4 @@ Commit on 2025-10-01 #3: feat(auth): integrate user login and session handling
 Commit on 2025-10-02 #1: feat(task): add checklist and attachments support
 Commit on 2025-10-02 #2: feat(notification): implement real-time task updates
 Commit on 2025-10-03 #1: feat(board): enable board sharing with team members
+Commit on 2025-10-03 #2: feat(task): add checklist and attachments support
