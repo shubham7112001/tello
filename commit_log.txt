@@ -344,3 +344,4 @@ Commit on 2025-10-03 #1: feat(board): enable board sharing with team members
 Commit on 2025-10-03 #2: feat(task): add checklist and attachments support
 Commit on 2025-10-04 #1: chore: improve build configuration for release
 Commit on 2025-10-05 #1: fix(api): resolve sync issue when updating task titles
+Commit on 2025-10-06 #1: refactor(core): reorganize API client and utils
