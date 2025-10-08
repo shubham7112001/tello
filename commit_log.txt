@@ -350,3 +350,4 @@ Commit on 2025-10-07 #1: fix(api): resolve sync issue when updating task titles
 Commit on 2025-10-07 #2: feat(task): add checklist and attachments support
 Commit on 2025-10-07 #3: chore: cleanup unused imports and assets
 Commit on 2025-10-08 #1: feat(ui): add adaptive theme and responsive grid layout
+Commit on 2025-10-08 #2: feat(task): add checklist and attachments support
