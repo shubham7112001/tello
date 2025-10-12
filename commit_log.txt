@@ -359,3 +359,4 @@ Commit on 2025-10-10 #1: fix(board): fix missing board refresh after drag event
 Commit on 2025-10-10 #2: chore: update dependencies and project structure
 Commit on 2025-10-11 #1: fix(board): fix missing board refresh after drag event
 Commit on 2025-10-12 #1: fix(api): resolve sync issue when updating task titles
+Commit on 2025-10-12 #2: refactor(task): optimize task data structure
