@@ -366,3 +366,4 @@ Commit on 2025-10-14 #1: chore: cleanup unused imports and assets
 Commit on 2025-10-14 #2: feat(board): enable board sharing with team members
 Commit on 2025-10-15 #1: refactor(core): reorganize API client and utils
 Commit on 2025-10-15 #2: fix(api): resolve sync issue when updating task titles
+Commit on 2025-10-15 #3: fix(ui): correct overflow issue in column view
