@@ -368,3 +368,4 @@ Commit on 2025-10-15 #1: refactor(core): reorganize API client and utils
 Commit on 2025-10-15 #2: fix(api): resolve sync issue when updating task titles
 Commit on 2025-10-15 #3: fix(ui): correct overflow issue in column view
 Commit on 2025-10-16 #1: fix(api): resolve sync issue when updating task titles
+Commit on 2025-10-16 #2: feat(task): add due date and label support
