@@ -381,3 +381,4 @@ Commit on 2025-10-21 #1: chore: update dependencies and project structure
 Commit on 2025-10-21 #2: fix(task): correct status update bug on task move
 Commit on 2025-10-21 #3: fix(api): resolve sync issue when updating task titles
 Commit on 2025-10-22 #1: fix(board): fix missing board refresh after drag event
+Commit on 2025-10-22 #2: feat(notification): implement real-time task updates
