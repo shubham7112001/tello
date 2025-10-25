@@ -387,3 +387,4 @@ Commit on 2025-10-23 #2: docs: update contribution guidelines and README
 Commit on 2025-10-24 #1: chore: update dependencies and project structure
 Commit on 2025-10-24 #2: chore: update dependencies and project structure
 Commit on 2025-10-25 #1: fix(auth): resolve login redirect problem
+Commit on 2025-10-25 #2: feat(task): add checklist and attachments support
