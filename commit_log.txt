@@ -390,3 +390,4 @@ Commit on 2025-10-25 #1: fix(auth): resolve login redirect problem
 Commit on 2025-10-25 #2: feat(task): add checklist and attachments support
 Commit on 2025-10-26 #1: refactor(core): reorganize API client and utils
 Commit on 2025-10-26 #2: fix(ui): correct overflow issue in column view
+Commit on 2025-10-27 #1: docs: update contribution guidelines and README
