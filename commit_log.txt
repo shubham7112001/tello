@@ -396,3 +396,4 @@ Commit on 2025-10-28 #1: fix(task): correct status update bug on task move
 Commit on 2025-10-28 #2: fix(task): correct status update bug on task move
 Commit on 2025-10-29 #1: feat(notification): implement real-time task updates
 Commit on 2025-10-29 #2: fix(board): fix missing board refresh after drag event
+Commit on 2025-10-29 #3: chore: update dependencies and project structure
