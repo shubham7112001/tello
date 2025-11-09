@@ -1,0 +1,60 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# VS Code (keep commented if you want settings in repo)
+#.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+
+# iOS related
+ios/Flutter/.last_build_id
+ios/Flutter/Flutter.framework
+ios/Flutter/App.framework
+ios/Flutter/Generated.xcconfig
+ios/Flutter/ephemeral/
+ios/.symlinks/
+ios/Pods/
+ios/Podfile.lock
+ios/Runner.xcworkspace/
+ios/DerivedData/
+
+# Android related
+android/.gradle/
+android/app/build/
+android/local.properties
+android/key.properties
+android/captures/
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Release/Debug outputs
+android/app/debug
+android/app/profile
+android/app/release
